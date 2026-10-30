@@ -1,0 +1,10 @@
+{
+  "name": "TERRANEX Agricultura Inteligente",
+  "short_name": "TERRANEX",
+  "description": "Plataforma de mapas 3D y análisis agrícola",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061f24",
+  "theme_color": "#062d2b",
+  "icons": []
+}

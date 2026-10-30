@@ -1,0 +1,26 @@
+TERRANEX — Prototipo visual v2
+==============================
+
+Cómo abrir:
+1. Descomprime TERRANEX_APP.zip.
+2. Abre la carpeta TERRANEX.
+3. Haz doble clic en index.html.
+
+Diseño:
+- Identidad visual inspirada en la imagen de referencia TERRANEX.
+- Banner panorámico con dron, paisaje agrícola y tecnología.
+- Interfaz oscura verde/turquesa, adaptable a computador y celular.
+- Secciones de fincas, mapa 3D, suelo, recomendaciones y reportes.
+
+Funciones de demostración:
+- Registrar y eliminar fincas/lotes.
+- Registrar mediciones manuales del suelo.
+- Guardar datos en el navegador actual.
+- Exportar resumen CSV.
+
+IMPORTANTE:
+Es un prototipo de interfaz, no una plataforma agronómica lista para producción.
+El mapa 3D es ilustrativo; no procesa imágenes de drones.
+No hay conexión real con drones o sensores ni análisis químico automático.
+Los datos se guardan solo en el navegador y no se sincronizan entre usuarios/dispositivos.
+Para producción se requiere backend, autenticación, base de datos central, almacenamiento de archivos, fotogrametría e integraciones con equipos compatibles.
